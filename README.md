@@ -54,7 +54,7 @@ curl http://localhost:8000/api/v1/delivery-order-price?venue_slug=home-assignmen
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dopc-api.git
+   git clone https://github.com/AmanAsgola/dopc-api.git
    cd dopc-api
    ```
 2. Install dependencies:
